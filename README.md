@@ -13,7 +13,7 @@
 <p align="center">
   <a href="mailto:varundamal79@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="http://www.linkedin.com/in/varun-d-13025225a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/varundamal"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/whyvarun"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -130,11 +130,11 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing B.Tech in Comput
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varundamal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyvarun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varundamal&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyvarun&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=varundamal&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whyvarun&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -162,6 +162,6 @@ I'm always interested in collaborating on AI/ML projects, discussing new technol
 
 <div align="center">
   
-**⭐ From [varundamal](https://github.com/varundamal)**
+**⭐ From [varundamal](https://github.com/whyvarun)**
 
 </div>
