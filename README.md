@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/your-uploaded-image.png" alt="Tech Header" width="100%"/>
+  <img src="169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png" alt="Tech Header" width="100%"/>
 </div>
 
 # Hi there, I'm Varun Damal 👋
