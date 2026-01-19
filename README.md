@@ -57,12 +57,12 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing B.Tech in Comput
 ## 💼 Experience
 
 ### 🔹 Altair Data Science Master Virtual Intern
-**EduSkills Foundation** | *Apr 2024 - Jun 2024*
+**EduSkills** | *Apr 2024 - Jun 2024*
 - Mastered data analysis, visualization, and machine learning using Python, R, SQL, and Altair RapidMiner
 - Developed predictive models for industry-relevant use cases
 
 ### 🔹 AWS Academy AI-ML Virtual Intern
-**AICTE** | *Sep 2023 - Nov 2023*
+**EduSkills** | *Sep 2023 - Nov 2023*
 - Completed comprehensive AI/ML training program
 - Deployed AI models using AWS services
 - Earned globally recognized certification
