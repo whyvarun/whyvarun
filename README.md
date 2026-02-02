@@ -126,20 +126,6 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing B.Tech in Comput
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyvarun&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyvarun&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whyvarun&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on AI/ML projects, discussing new technologies, or contributing to open-source initiatives. Feel free to reach out!
