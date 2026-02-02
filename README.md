@@ -148,6 +148,6 @@ I'm always interested in collaborating on AI/ML projects, discussing new technol
 
 <div align="center">
   
-**⭐ From [varundamal](https://github.com/whyvarun)**
+**⭐ From [VD](https://github.com/whyvarun)**
 
 </div>
