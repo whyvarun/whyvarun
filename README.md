@@ -24,7 +24,6 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing B.Tech in Comput
 
 - 🔭 Currently working on **SupportIQ** - A Multi-Level Intelligent Query Resolution System
 - 🌱 Learning advanced **RAG pipelines** and **Vector Databases**
-- 🎯 Focused on **Healthcare AI** and **Signal Processing**
 - 🌍 Based in Pune, Maharashtra, India
 - 💡 Member of **IEEE Computer Society** & **ACM**
 - 🌿 Active volunteer at **MyPrakriti Initiative** for environmental sustainability
