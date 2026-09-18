@@ -24,7 +24,7 @@ I'm a **Data Scientist** and **AI Engineer** currently pursuing B.Tech in Comput
 
 - 🔭 Currently working on **SupportIQ** - A Multi-Level Intelligent Query Resolution System
 - 🌱 Learning advanced **RAG pipelines** and **Vector Databases**
-- 🌍 Based in Marburg, Hesse, Germany
+- 🌍 Based in **Marburg, Hesse, Germany**
 - 💡 Member of **IEEE Computer Society** & **ACM**
 - 🌿 Active volunteer at **MyPrakriti Initiative** for environmental sustainability
 
